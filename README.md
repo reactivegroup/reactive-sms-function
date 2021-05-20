@@ -1,8 +1,8 @@
-# reactive-group
+# reactive sms cloud function
 
 [![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://groups.google.com/g/reactive-group)
 
-Reactive Group Bill Of Materials.
+Reactive Sms Cloud Funtion.
 
 ## Contributing
 
